@@ -1,66 +1,48 @@
-# Portfolio_rohith
-🚀 AI Chatbot Web Application (Groq + Django)
+# 🧑‍💻 Developer Portfolio Website
 
-A fully functional AI-powered chatbot built using Django and the Groq Llama 3.1 model.
-Users can chat in real-time using a clean and responsive chat interface.
+A fully responsive and dynamic portfolio website built using **Django**.  
+This project showcases your work, skills, and contact information — all fully manageable from the **Django Admin Panel**, without editing code.
 
-⭐ Features
+---
 
-🤖 Real-time AI chat interface
+## 🚀 Features
 
-⚡ Powered by Groq Llama 3.1 API
+- **Dynamic Project Showcase**
+  - Add/edit/delete projects directly from Django Admin
+  - Upload project images
+  - Set featured projects for homepage
 
-🎨 Beautiful gradient UI with smooth animations
+- **Skills Section**
+  - Display technical skills with proficiency levels
 
-🔗 Fully deployed online using Render
+- **Contact Form**
+  - Visitors can send messages through a form  
+  - Backend email handling using Django
 
-🔄 Auto-deployment from GitHub
+- **Responsive UI**
+  - Mobile-first design  
+  - Clean black & orange theme  
+  - Smooth animations & modern layout
 
-🔐 CORS-enabled
+- **Admin Content Management**
+  - Update content without modifying any HTML files
 
-🧩 Django REST API backend
+---
 
-🏗️ Tech Stack
-Layer	Technologies
-Frontend	HTML, CSS, JavaScript
-Backend	Django, Django REST Framework
-AI API	Groq Llama 3.1
-Database	SQLite
-Deployment	Render
-Version Control	Git & GitHub
-🔍 How It Works
+## 🛠️ Tech Stack
 
-User types a message
+**Frontend**
+- HTML5  
+- CSS3  
+- JavaScript  
 
-Frontend sends it to Django using AJAX/Fetch
+**Backend**
+- Django (Python)
 
-Django sends message → Groq API
+**Database**
+- SQLite (default Django DB)
 
-Groq returns an AI-generated response
+---
 
-Frontend displays it in chat UI
+## 📁 Project Structure
 
-
-
-🛠️ Setup Instructions
-git clone <repo-url>
-cd project-folder
-python -m venv venv
-venv\Scripts\activate   # Windows
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-
-📚 Skills Demonstrated
-
-Full-stack development
-
-Django REST APIs
-
-AI integration
-
-JavaScript → Backend communication
-
-Deploying Django apps
-
-Version control & project structuring
