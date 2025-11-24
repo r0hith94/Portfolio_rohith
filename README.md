@@ -40,9 +40,7 @@ Groq returns an AI-generated response
 
 Frontend displays it in chat UI
 
-🌐 Live Demo
 
-👉 https://chatbot-ai-o3xa.onrender.com
 
 🛠️ Setup Instructions
 git clone <repo-url>
