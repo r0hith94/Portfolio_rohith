@@ -44,5 +44,5 @@ This project showcases your work, skills, and contact information — all fully 
 
 ---
 
-## 📁 Project Structure
+
 
