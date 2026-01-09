@@ -44,5 +44,10 @@ This project showcases your work, skills, and contact information — all fully 
 
 ---
 
+<<<<<<< HEAD
 ## 📁 Project Structure
 
+=======
+
+
+>>>>>>> 4dd57902e115f7deece22865a63e7039ab5b9f9a
